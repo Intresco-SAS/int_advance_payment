@@ -11,7 +11,7 @@
                 'purchase_advance_payment',
                 'sale_advance_payment',
     ],
-    'auto_install': False,
+    'auto_install': True,
     'application': False,
     'assets': {
         
